@@ -1,3 +1,7 @@
+# Azure Link 👇
+
+[[http://badalfoundation.great-site.net/](https://happy-ocean-0d2370510.3.azurestaticapps.net)](https://happy-ocean-0d2370510.3.azurestaticapps.net/)
+
 # Dent-All-Website-FRT-Project -
 About Website:
 
@@ -6,12 +10,6 @@ compare prices and ratings, and schedule appointments online.
 - Dent-All also offers a chatbot powered by Azure Health Bot service, which can answer common questions, provide health tips, and guide users through symptom checkers. 
 - Dent-All is built and deployed using Azure Static Web App service, which provides a fast, secure, and scalable solution for web app development.
 - This project was created as part of Future Ready Talent, a program that aims to equip students and professionals with the skills and knowledge required for the digital economy.
-
-# Azure Link 👇
-
-[[http://badalfoundation.great-site.net/](https://happy-ocean-0d2370510.3.azurestaticapps.net)](https://happy-ocean-0d2370510.3.azurestaticapps.net/)
-
-
 
 # Azure Services Used 👇
 
